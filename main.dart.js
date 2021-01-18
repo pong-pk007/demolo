@@ -27433,7 +27433,7 @@ F.QQ.prototype={
 $1:function(a){var s=document.createElement("iframe"),r=this.a,q=t.w
 s.width=J.bV(r.c.V(q).f.a.a)
 s.height=J.bV(r.c.V(q).f.a.b)
-s.src="https://.google.com"
+s.src="https://google.com"
 q=s.style
 q.border="none"
 return s},
